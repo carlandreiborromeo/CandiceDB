@@ -9,9 +9,6 @@
 
   "scripts": {
   "start": "node server.js"
-<<<<<<< HEAD
 }
-=======
->>>>>>> 8c2943a (Initial commit of backend folder)
-}
+
 }
