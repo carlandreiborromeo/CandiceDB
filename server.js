@@ -7,9 +7,9 @@ const port = process.env.PORT || 8080; // Use the PORT environment variable if s
 
 // Azure SQL connection configuration
 const dbConfig = {
-  user: "Candice", // Azure SQL username
-  password: "Project1234", // Azure SQL password
-  server: "dandicedsa.database.windows.net", // Azure SQL server name
+  user: "candice", // Azure SQL username
+  password: "Notes1234", // Azure SQL password
+  server: "notedsa.database.windows.net", // Azure SQL server name
   database: "candiceDB", // Your database name
   options: {
     encrypt: true, // Use encryption
